@@ -1,0 +1,8 @@
+all:
+  hosts:
+    ManageNode_Naya:
+      ansible_host: 192.168.56.114
+      ansible_user: naya
+    ManageNode0:
+      ansible_host: 192.168.56.101
+      ansible_user: naya
